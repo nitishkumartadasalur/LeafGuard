@@ -6,7 +6,7 @@ from google.genai import types
 
 st.set_page_config(page_title="LeafGuard", page_icon="🍃", layout="centered")
 
-   MODEL = "gemini-3.8-flash"
+MODEL = "gemini-3.8-flash"
 
 st.markdown("""
 <style>
